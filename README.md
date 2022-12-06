@@ -5,7 +5,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <i> Si el contenido fue útil, no olvides dejarme una ⭐. </i>
 
-# Contenido del tutorial
+# Contenido 
 <p align="center">
   <ol>
     <li> <a href=""> Primeros pasos </a> </li>
