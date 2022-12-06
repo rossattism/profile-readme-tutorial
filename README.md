@@ -19,7 +19,12 @@ Te enseño de manera básica y clara como editar tu perfil y dejarlo bonito para
   </ol>
 </p>
              
-## Primeros pasos
+## Primeros pasos en tu nueva aventura
 
-Tienes que crear un nuevo repositorio que tenga el mismo nombre que tu nombre de usuario en Github y seleccionar la pestaña "Add a Readme file" para agregar un archivo Readme que va a permitir la personalización de tu perfil. Este archivo lo editas fácilmente desde Github.
+Crear un nuevo repositorio que tenga el mismo nombre que tu <i> <b> nombre de usuario en Github </b> </i> y no olvidarte de seleccionar la pestaña "Add a Readme file" para agregar un archivo Readme que te va a permitir personalizar tu perfil. <br> 
+¿Cómo lo vamos a lograr? Editando este archivo fácilmente desde Github con los tips que te voy a dar.
 
+## ¿Markdown o HTML? Esa es la cuestión
+
+¡Para qué elegir, si podemos usar los dos! Sí, los dos y al mismo tiempo, ¡😲 Supercalifragilisticoexpialidoso! <br> 
+Para editar el Readme, entonces, vamos a poder usar el lenguaje Markdown y el lenguaje HTML, este último con algunas limitaciones que vas a ir descubriendo sobre la marcha. No te preocupes si no conoces Markdown o HTML porque son lenguajes sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> ctrl+c </i> y <i> ctrl+v </i> y seas feliz.
