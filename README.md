@@ -9,7 +9,14 @@ Te enseño de manera básica y clara como editar tu perfil y dejarlo bonito para
 <p align="center">
   <ol>
     <li> <a href=""> Primeros pasos </a> </li>
-    <li> ¿Markdown o HTML? Esa es la cuestión </li>
+    <li> <a href=""> ¿Markdown o HTML? </a> </li>
+    <li> <a href=""> Agregar títulos </a> </li>
+    <li> <a href=""> Editar texto </a> </li>
+    <li> <a href=""> Insertar imágenes </a> </li>
+    <li> <a href=""> Badges y otras cosas chachi </a> </li>
+    <li> <a href=""> Comunidad 42 </a> </li>
+    
+  </ol>
 </p>
              
 ## Primeros pasos
