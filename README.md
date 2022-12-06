@@ -1,6 +1,8 @@
-# ¡Bienvenid@!
+# Tutorial Readme by @silvinarossatti
 
 > “La naturaleza nos ha dado las semillas del conocimiento, no el conocimiento mismo.” ― Séneca
+
+## ¡Bienvenid@!
 
 Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, ¡este es tu lugar! 
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
@@ -9,7 +11,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <hr>
 
-# Contenido 
+## Contenido 
 <p align="center">
   <ol>
     <li> <a href="https://github.com/silvinarossatti/tutorial-readme/blob/main/README.md#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
