@@ -30,7 +30,7 @@ Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre 
 ¡Para qué elegir, si podemos usar los dos! Sí, ¡los dos! <i>😲 Supercalifragilisticoexpialidoso. </i> <br> 
 Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+C </i>, <i> Ctrl+V </i> y seas feliz.
 
-## 💕 Agregar todos los encabezados que tu corazón desea 
+## 💕 Agregar encabezados: todos los que tu corazón desea 
 
 La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo utilizamos <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño.
 
