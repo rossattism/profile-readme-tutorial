@@ -40,4 +40,4 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 ### Encabezado 3
 #### Encabezado 4
 ```
-Estos encabezados, además, <i> generan automáticamente </i> el enlace al atajo a cada encabezado que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo, ¡un placer! 😎
+Estos encabezados, además, <i> generan automáticamente </i> un enlace a cada encabezado que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo, ¡un placer! 😎
