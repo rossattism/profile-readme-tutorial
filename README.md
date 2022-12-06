@@ -8,10 +8,10 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 # Contenido 
 <p align="center">
   <ol>
-    <li> <a href=""> Primeros pasos </a> </li>
-    <li> <a href=""> Markdown o HTML </a> </li>
-    <li> <a href=""> Agregar encabezados </a> </li>
-    <li> <a href=""> Editar texto </a> </li>
+    <li> <a href="https://github.com/silvinarossatti/tutorial-readme#primeros-pasos-en-tu-pr%C3%B3xima-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/silvinarossatti/tutorial-readme#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="https://github.com/silvinarossatti/tutorial-readme#-agregar-encabezados-todos-los-que-tu-coraz%C3%B3n-desea"> Agregar encabezados </a> </li>
+    <li> <a href="https://github.com/silvinarossatti/tutorial-readme#-editar-texto-y-otras-utilidades-que-encantan"> Editar texto </a> </li>
     <li> <a href=""> Añadir enlaces </a> </li>
     <li> <a href=""> Insertar imágenes </a> </li>
     <li> <a href=""> Badges y otras cosas chachi </a> </li>
