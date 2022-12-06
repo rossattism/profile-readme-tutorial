@@ -1,5 +1,7 @@
 # ¡Bienvenid@!
 
+> “La naturaleza nos ha dado las semillas del conocimiento, no el conocimiento mismo.” ― Séneca
+
 Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, ¡este es tu lugar! 
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
