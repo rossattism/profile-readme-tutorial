@@ -20,7 +20,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
   </ol>
 </p> <br>
 
-## 🐱‍🏍Primeros pasos en tu próxima aventura 
+## 🐱‍🏍Primeros pasos en tu nueva aventura 
 
 <p align="justify">
 <ul>
