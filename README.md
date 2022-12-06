@@ -12,6 +12,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href=""> ¿Markdown o HTML? </a> </li>
     <li> <a href=""> Agregar títulos </a> </li>
     <li> <a href=""> Editar texto </a> </li>
+    <li> <a href=""> Añadir enlaces </a> </li>
     <li> <a href=""> Insertar imágenes </a> </li>
     <li> <a href=""> Badges y otras cosas chachi </a> </li>
     <li> <a href=""> Comunidad 42 </a> </li>
@@ -19,12 +20,28 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
   </ol>
 </p>
              
-## Primeros pasos en tu nueva aventura
+## Primeros pasos: en tu nueva aventura
 
 Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre de usuario en Github </b> y no olvidar de <i> seleccionar la pestaña </i> "Add a Readme file" para agregar un archivo Readme que te permita personalizar tu perfil. <br> 
 <b> ¿Cómo lo vas a lograr? </b> Editando este archivo fácilmente desde Github con los tips que te voy a dar ✨.
 
-## ¿Markdown o HTML? Esa es la cuestión
+## ¿Markdown o HTML?: Esa es la cuestión
 
 ¡Para qué elegir, si podemos usar los dos! Sí, los dos y al mismo tiempo, <i> ¡😲 Supercalifragilisticoexpialidoso! </i> <br> 
-Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no conoces los lenguajes porque son sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+c </i> y <i> Ctrl+v </i> y seas feliz.
+Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no conoces los lenguajes porque son sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+c </i>, <i> Ctrl+v </i> y seas feliz.
+
+## Agregar encabezados: todos los que tu corazón desea
+
+La forma más sencilla de agregar los títulos de nuestro Readme es con markdown. Para esto utilizamos almohadillas (#) antes de cada título. La cantidad de almohadillas representa el tamaño de la letra del encabezado, mientras más almohadillas, menor el tamaño.
+
+```
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+```
+Visualización:
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
