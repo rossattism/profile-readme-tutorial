@@ -5,6 +5,8 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
 
+<hr>
+
 # Contenido 
 <p align="center">
   <ol>
@@ -19,6 +21,8 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     
   </ol>
 </p>
+
+<hr>
 
 ## 🐱‍🏍Primeros pasos en tu nueva aventura 
 
