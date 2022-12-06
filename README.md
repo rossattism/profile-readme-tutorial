@@ -3,7 +3,7 @@
 Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, ¡este es tu lugar! 
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
-<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i>
+<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
 
 # Contenido 
 <p align="center">
@@ -19,19 +19,22 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     
   </ol>
 </p>
-             
-## 🐱‍🏍Primeros pasos en tu próxima aventura 
+<br>      
 
+## 🐱‍🏍Primeros pasos en tu próxima aventura 
+<br>
 Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre de usuario en Github </b> y no olvidar de <i> seleccionar la pestaña </i> "Add a Readme file" para agregar un archivo Readme que te permita personalizar tu perfil. <br> 
 <b> ¿Cómo lo vas a lograr? </b> Editando este archivo fácilmente desde Github con los tips que te voy a dar ✨.
+<br>
 
 ## 🤓 Markdown o HTML, esa es la cuestión 
-
+<br>
 ¡Para qué elegir, si podemos usar los dos! Sí, ¡los dos! <i>😲 Supercalifragilisticoexpialidoso. </i> <br> 
 Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+C </i>, <i> Ctrl+V </i> y seas feliz.
+<br>
 
 ## 💕 Agregar encabezados: todos los que tu corazón desea 
-
+<br>
 La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo utilizamos <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño.
 
 ```
@@ -42,5 +45,6 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 ```
 
 Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo, ¡un placer! 😎
+<br>
 
 ## 📃 Editar texto y otras utilidades que encantan
