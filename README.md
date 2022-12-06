@@ -27,8 +27,8 @@ Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre 
 
 ## 🤓 Markdown o HTML, esa es la cuestión 
 
-¡Para qué elegir, si podemos usar los dos! Sí, los dos y al mismo tiempo, <i> ¡😲 Supercalifragilisticoexpialidoso! </i> <br> 
-Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no conoces los lenguajes porque son sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+c </i>, <i> Ctrl+v </i> y seas feliz.
+¡Para qué elegir, si podemos usar los dos! Sí, ¡los dos! <i>😲 Supercalifragilisticoexpialidoso. </i> <br> 
+Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+C </i>, <i> Ctrl+V </i> y seas feliz.
 
 ## 💕 Agregar todos los encabezados que tu corazón desea 
 
@@ -40,4 +40,7 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 ### Encabezado 3
 #### Encabezado 4
 ```
-Estos encabezados, además, <i> generan automáticamente </i> un enlace a cada encabezado que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo, ¡un placer! 😎
+
+Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo, ¡un placer! 😎
+
+## 📃 Editar texto y otras utilidades que encantan
