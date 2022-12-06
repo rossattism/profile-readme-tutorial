@@ -26,5 +26,5 @@ Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre 
 
 ## ¿Markdown o HTML? Esa es la cuestión
 
-¡Para qué elegir, si podemos usar los dos! Sí, los dos y al mismo tiempo, ¡😲 Supercalifragilisticoexpialidoso! <br> 
-Para editar el Readme, entonces, vamos a poder usar el lenguaje Markdown y el lenguaje HTML, este último con algunas limitaciones que vas a ir descubriendo sobre la marcha. No te preocupes si no conoces Markdown o HTML porque son lenguajes sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> ctrl+c </i> y <i> ctrl+v </i> y seas feliz.
+¡Para qué elegir, si podemos usar los dos! Sí, los dos y al mismo tiempo, <i> ¡😲 Supercalifragilisticoexpialidoso! </i> <br> 
+Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no conoces los lenguajes porque son sencillos y porque voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+c </i> y <i> Ctrl+v </i> y seas feliz.
