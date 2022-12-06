@@ -6,9 +6,13 @@ Te enseño de manera básica y clara como editar tu perfil y dejarlo bonito para
 <i> Si el contenido fue útil, no olvides dejarme una ⭐. </i>
 
 # Contenido del tutorial
-<a href=""> ¿Cuál es el primer paso para editar mi perfil? </a>
-
-## ¿Cuál es el primer paso para editar mi perfil?
+<p align="center">
+  <ol>
+    <li> <a href=""> Primeros pasos </a> </li>
+    <li> ¿Markdown o HTML? Esa es la cuestión </li>
+</p>
+             
+## Primeros pasos
 
 Tienes que crear un nuevo repositorio que tenga el mismo nombre que tu nombre de usuario en Github y seleccionar la pestaña "Add a Readme file" para agregar un archivo Readme que va a permitir la personalización de tu perfil. Este archivo lo editas fácilmente desde Github.
 
