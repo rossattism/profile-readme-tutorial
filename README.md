@@ -18,8 +18,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href=""> Comunidad 42 </a> </li>
     
   </ol>
-</p>
-<br>      
+</p>    
 
 ## 🐱‍🏍Primeros pasos en tu próxima aventura 
 Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre de usuario en Github </b> y no olvidar de <i> seleccionar la pestaña </i> "Add a Readme file" para agregar un archivo Readme que te permita personalizar tu perfil. <br> 
