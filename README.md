@@ -3,7 +3,7 @@
 Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, ¡este es tu lugar! 
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
-<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
+<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br> <br>
 
 # Contenido 
 <p align="center">
@@ -27,7 +27,8 @@ Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre 
 
 ## 🤓 Markdown o HTML, esa es la cuestión 
 ¡Para qué elegir, si podemos usar los dos! Sí, ¡los dos! <i>😲 Supercalifragilisticoexpialidoso. </i> <br> 
-Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+C </i>, <i> Ctrl+V </i> y seas feliz.
+Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. <br>
+No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices <i> Ctrl+C </i>, <i> Ctrl+V </i> y seas feliz.
 <br><br>
 
 ## 💕 Agregar encabezados: todos los que tu corazón desea 
