@@ -3,7 +3,7 @@
 Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, ¡este es tu lugar! 
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
-<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br> <br>
+<i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
 
 # Contenido 
 <p align="center">
@@ -18,7 +18,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href=""> Comunidad 42 </a> </li>
     
   </ol>
-</p>    <br>
+</p> 
 
 ## 🐱‍🏍Primeros pasos en tu próxima aventura 
 
@@ -28,7 +28,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
   <li> Seleccionar la pestaña </i> "Add a Readme file" para agregar un archivo Readme que te permita personalizar tu perfil </li> 
   <li> Editar el archivo fácilmente desde Github con los <b> <i> tips </i> </b> que doy en este repo ✨ </li> 
 </ul>
- </p> <br>
+ </p> 
 
 ## 🤓 Markdown o HTML, esa es la cuestión 
 ¡Para qué elegir, si podemos usar los dos! Sí, ¡los dos! <i>😲 Supercalifragilisticoexpialidoso. </i> <br> 
