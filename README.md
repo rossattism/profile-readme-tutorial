@@ -65,18 +65,18 @@ Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos d
  </p>
  
  ```
-Así escribimos texto normal
-<i> Así escribimos texto en cursiva <i>
-<b> Así escribimos texto en negrilla </b>
-con <br> haremos un salto de línea
-<p align="center"> Así escribimos texto centrado </p>
-<p align="justify"> Así escribimos texto justificado </p>
+texto normal
+<i> texto en cursiva <i>
+<b> texto en negrilla </b>
+<p align="center"> texto centrado </p>
+<p align="justify"> texto justificado </p>
+<br> salto de línea
 ```
 
 Ejemplo de cómo se vería el código: <br>
-Así escribimos texto normal  <br>
-<i> Así escribimos texto en cursiva </i>  <br>
-<b> Así escribimos texto en negrilla </b>  <br>
-con <br> haremos un salto de línea <br>
-<p align="center"> Así escribimos texto centrado </p>
-<p align="justify"> Así escribimos texto justificado </p>
+texto normal
+<i> texto en cursiva <i>
+<b> texto en negrilla </b>
+<p align="center"> texto centrado </p>
+<p align="justify"> texto justificado </p>
+<br> salto de línea
