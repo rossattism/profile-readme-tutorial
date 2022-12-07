@@ -1,4 +1,4 @@
-# Tutorial Readme by <a href="https://github.com/RossattiSM"> RossattiSM </a>
+# Tutorial de Readme by <a href="https://github.com/RossattiSM"> RossattiSM </a>
 
 > “La naturaleza nos ha dado las semillas del conocimiento, no el conocimiento mismo.” ― Séneca
 
@@ -14,12 +14,12 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 ## Contenido 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme#agregar-encabezados"> Agregar encabezados </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme#editar-texto"> Editar texto </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#agregar-encabezados"> Agregar encabezados </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
+    <li> <a href=""> Insertar imágenes </a> </li>
     <li> <a href=""> Iconos y Badges </a> </li>
     <li> <a href=""> Para la Comunidad 42 </a> </li>
     
