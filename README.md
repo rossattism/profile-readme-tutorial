@@ -73,7 +73,7 @@ texto normal
 <br> salto de línea
 ```
 
-Ejemplo de cómo se vería el código: <br>
+``` Ejemplo de cómo se vería el código: ```
 texto normal <br> 
 <i> texto en cursiva <i> <br> 
 <b> texto en negrilla </b> <br> 
