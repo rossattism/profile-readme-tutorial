@@ -91,7 +91,7 @@ Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso 
  ```
  
 ## Insertar imágenes
-Las <i> imágenes </i> también las vamos a insertar con ayuda de HTML.  <br>
+Las <i> imágenes </i> también las vamos a insertar con ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
 
  ```
  <img src="aquí va el url de la imágen" />
