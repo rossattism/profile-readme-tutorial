@@ -59,7 +59,7 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo.
 </p> <br>
 
-## Editar texto y otras utilidades
+## Editar texto
 <p align="justify">
 Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
  </p>
@@ -82,4 +82,17 @@ texto normal <br>
 
 <b> EMOJIS </b> <br> 
 Si te gustan los <i>  emojis </i> puedes utilizarlos con el código que le corresponde: <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
-  
+
+## Añadir los enlaces
+Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso dentro de mi propio Readme, también utilizo el lenguaje HTML. <br>
+
+ ```
+ <a href="aquí va el enlace"> texto enlazado </a>
+ ```
+ 
+## Insertar imágenes
+Las <i> imágenes </i> también las vamos a insertar con ayuda de HTML.  <br>
+
+ ```
+ <img src="aquí va el url de la imágen" />
+ ```
