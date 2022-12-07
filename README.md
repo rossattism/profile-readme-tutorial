@@ -61,5 +61,22 @@ Estos encabezados, además, <i> generan automáticamente </i> un enlace con ataj
 
 ## Editar texto y otras utilidades
 <p align="justify">
-Para <i> escribir texto </i> dentro de nuestro Readme simplemente .
+Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
  </p>
+ 
+ ```
+Así escribimos texto normal
+<i> Así escribimos texto en cursiva <i>
+<b> Así escribimos texto en negrilla </b>
+con <br> haremos un salto de línea
+<p align="center"> Así escribimos texto centrado </p>
+<p align="justify"> Así escribimos texto justificado </p>
+```
+
+Ejemplo visual del código:
+Así escribimos texto normal  <br>
+<i> Así escribimos texto en cursiva <i>  <br>
+<b> Así escribimos texto en negrilla </b>  <br>
+con <br> haremos un salto de línea <br>
+<p align="center"> Así escribimos texto centrado </p>
+<p align="justify"> Así escribimos texto justificado </p>
