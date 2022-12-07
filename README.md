@@ -16,6 +16,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 
 ## Contenido 
+
 <p align="center">
   <ol>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
@@ -50,6 +51,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
  </p>
 
 ## Agregar encabezados
+
 <p align="justify">
 La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo utilizamos <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño de la letra.
  </p>
@@ -78,7 +80,7 @@ texto normal
 <br> salto de línea
 ```
 
-Ejemplo de cómo se vería el código: <br>
+Ejemplo de cómo se vería: <br>
 texto normal <br> 
 <i> texto en cursiva </i> <br> 
 <b> texto en negrilla </b>
@@ -89,25 +91,27 @@ texto normal <br>
 Si te gustan los <i>  emojis </i> 🤩😎 puedes utilizarlos con el código que le corresponde: <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
 
 ## Añadir los enlaces 🔗
-Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso dentro de mi propio Readme, también utilizo el lenguaje HTML. <br>
 
+Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github, también utilizo el lenguaje HTML. <br>
  ```
  <a href="aquí va el enlace"> texto enlazado </a>
  ```
- 
 Un ejemplo de código donde añadimos un enlace sería este:
 ```
 Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  ```
-Y se vería de esta manera: <br> 
+Y se vería de la siguiente manera: <br> 
 Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  
 ## Insertar imágenes
-Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
+
+Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o imágenes dentro del mismo Readme que tendríamos que subir al repositorio manualmente para poder agregar la ruta a nuestro archivo. <br>
+
 Esta es la forma que utilizamos en HTML para insertar una imágen:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" />
  ```
+ 
 Además, se puede cambiar el tamaño de la imágen modificando sus pixeles directamente con código de la siguiente manera:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" width="50px" height="50px" />
@@ -117,5 +121,16 @@ Además, se puede cambiar el tamaño de la imágen modificando sus pixeles direc
  ```
  <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
  ```
-Y se vería de esta manera: <br> 
+
+Y se vería de la siguiente forma: <br> 
 <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
+
+## Iconos
+
+Una forma divertida y visual de editar nuestro perfil es añadiendo iconos con los lenguajes que conocemos o nos gustaría aprender para poder mostrarlo ante los reclutadores y que puedan darse una mejor idea sobre nosotoros. Los iconos se añaden como las imágenes. Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar:
+
+<p align="center">
+<a href="https://github.com/tandpfun/skill-icons"> Iconos de Skills </a> <br>
+
+</p>
+
