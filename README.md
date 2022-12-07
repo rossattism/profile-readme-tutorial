@@ -75,7 +75,7 @@ con <br> haremos un salto de línea
 
 Ejemplo de cómo se vería el código: <br>
 Así escribimos texto normal  <br>
-<i> Así escribimos texto en cursiva <i>  <br>
+<i> Así escribimos texto en cursiva </i>  <br>
 <b> Así escribimos texto en negrilla </b>  <br>
 con <br> haremos un salto de línea <br>
 <p align="center"> Así escribimos texto centrado </p>
