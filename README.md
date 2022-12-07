@@ -45,17 +45,19 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
  </p>
 
 ## Agregar encabezados
+<p align="justify">
 La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo utilizamos <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño de la letra.
-
+ </p>
+ 
 ```
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
 #### Encabezado 4
 ```
-
+<p align="justify">
 Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo.
-<br><br>
+</p> <br>
 
 ## Editar texto y otras utilidades
 <p align="justify">
