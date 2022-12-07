@@ -74,9 +74,8 @@ texto normal
 ```
 
 Ejemplo de cómo se vería el código: <br>
-texto normal
-<i> texto en cursiva <i>
-<b> texto en negrilla </b>
+texto normal <br> 
+<i> texto en cursiva <i> <br> 
+<b> texto en negrilla </b> <br> 
 <p align="center"> texto centrado </p>
 <p align="justify"> texto justificado </p>
-<br> salto de línea
