@@ -68,8 +68,8 @@ Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos d
 texto normal
 <i> texto en cursiva <i>
 <b> texto en negrilla </b>
-<p align="center"> texto centrado </p>
 <p align="justify"> texto justificado </p>
+<p align="center"> texto centrado </p>
 <br> salto de línea
 ```
 
@@ -77,5 +77,9 @@ Ejemplo de cómo se vería el código: <br>
 texto normal <br> 
 <i> texto en cursiva <i> <br> 
 <b> texto en negrilla </b> <br> 
-<p align="center"> texto centrado </p>
 <p align="justify"> texto justificado </p>
+<p align="center"> texto centrado </p>
+
+  <p> <b> EMOJIS </b> </p> 
+Si te gustan los emojis, puedes utilizarlos con el código que le corresponde, <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
+  
