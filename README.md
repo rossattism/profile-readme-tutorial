@@ -11,7 +11,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 <br>
 
 <hr>
-## ANTES DE COMENZAR:  <br> Quiero dejar aclarado que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utilizando mayormente HTML, lo que no quita que en muchos casos podamos utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
+<b> ANTES DE COMENZAR:  </b> <br> Quiero dejar aclarado que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utilizando mayormente HTML, lo que no quita que en muchos casos podamos utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
 <hr>
 
 <br>
