@@ -66,7 +66,7 @@ Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos d
  
  ```
 texto normal
-<i> texto en cursiva <i>
+<i> texto en cursiva </i>
 <b> texto en negrilla </b>
 <p align="justify"> texto justificado </p>
 <p align="center"> texto centrado </p>
@@ -75,7 +75,7 @@ texto normal
 
 Ejemplo de cómo se vería el código: <br>
 texto normal <br> 
-<i> texto en cursiva <i> <br> 
+<i> texto en cursiva </i> <br> 
 <b> texto en negrilla </b> <br> 
 <p align="justify"> texto justificado </p>
 <p align="center"> texto centrado </p>
