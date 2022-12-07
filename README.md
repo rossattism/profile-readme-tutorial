@@ -156,15 +156,13 @@ Los siguientes son enlaces a repositorios Github con iconos que te pueden intere
 Los <i> badges </i> son <b> insignias </b> que podemos poner a nuestro perfil que hacen más <b> divertido o atractivo nuestro perfil </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a tu perfil de github, contar el peso de tu código en el repositorio o la cantidad de archivos que hay dentro. Hay muchísimas. Cada una tiene su código particular para insertarla en tu archivo Readme. <br>
 
 Aquí te dejo enlaces a repositorios con Badges: <br>
-<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> Github Readme Stats </a> <br>
 <a href="https://github.com/Naereen/badges"> More badges </a> <br>
-  <a href="https://github.com/Ileriayo/markdown-badges"> Markdown Badges </a> <br>
-</p>
+<a href="https://github.com/Ileriayo/markdown-badges"> Markdown Badges </a> <br>
 
 ## Comunidad 4️⃣2️⃣
 
-Les dejo, para cerrar, les dejo por <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a> una lista con repositorios útiles para la comunidad de 42, que incluye un repositorios con badges de 42 que te permite agregar al perfil un badge de nuestro perfil como estudiante en 42. Sería algo como esto: <br>
+Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. Sería algo como esto: <br>
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
   
