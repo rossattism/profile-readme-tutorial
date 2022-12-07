@@ -9,6 +9,8 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
 
+<b> <i> ACLARACION: </i> </b> Hay muchas maneras de editar un Readme en Github, este modo de mi tutorial es básico y mayormente utilizo HTML para dar ejemplos de edición, pero eso no quiere decir que en muchos casos podamos también utilizar Markdown para hacerlo mismo e incluso más. <br>
+
 <hr>
 
 ## Contenido 
@@ -19,7 +21,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#agregar-encabezados"> Agregar encabezados </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
-    <li> <a href=""> Insertar imágenes </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
     <li> <a href=""> Iconos y Badges </a> </li>
     <li> <a href=""> Para la Comunidad 42 </a> </li>
     
@@ -91,13 +93,13 @@ Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso 
  ```
 Un ejemplo de código donde añadimos un enlace sería este:
 ```
-Sígueme en Github haciendo click <a href="https://github.com/RossattiSM"> aquí </a>
+Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  ```
 Y se vería de esta manera: <br> 
-Sígueme en Github haciendo click <a href="https://github.com/RossattiSM"> aquí </a>
+Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  
 ## Insertar imágenes
-Las <i> imágenes </i> también las vamos a insertar con ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
+Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
 
  ```
  <img src="aquí va el url de la imágen" />
