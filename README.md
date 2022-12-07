@@ -14,7 +14,6 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 <b> ANTES DE COMENZAR:  </b> Es imperioso aclarar que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utilizando mayormente HTML, lo que no quita que en muchos casos podamos utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
 <hr>
 
-<br>
 
 ## Contenido 
 <p align="center">
@@ -25,7 +24,8 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
-    <li> <a href=""> Iconos y Badges </a> </li>
+    <li> <a href=""> Iconos </a> </li>
+    <li> <a href=""> Badges </a> </li>
     <li> <a href=""> Para la Comunidad 42 </a> </li>
     
   </ol>
@@ -105,5 +105,11 @@ Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
 Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
 
  ```
- <img src="aquí va el url de la imágen" />
+ <img src="aquí va el url de la imágen" alt="descripción de imágen" />
  ```
+ Un ejemplo de código donde añadimos una imágen sería este:
+ ```
+ <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" />
+ ```
+Y se vería de esta manera: <br> 
+<img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" />
