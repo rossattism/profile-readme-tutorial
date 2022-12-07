@@ -94,6 +94,7 @@ Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso 
  ```
  <a href="aquí va el enlace"> texto enlazado </a>
  ```
+ 
 Un ejemplo de código donde añadimos un enlace sería este:
 ```
 Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
@@ -103,13 +104,18 @@ Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  
 ## Insertar imágenes
 Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
-
+Esta es la forma que utilizamos en HTML para insertar una imágen:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" />
  ```
+Además, se puede cambiar el tamaño de la imágen modificando sus pixeles directamente con código de la siguiente manera:
+ ```
+ <img src="aquí va el url de la imágen" alt="descripción de imágen" width="50px" height="50px" />
+ ```
+ 
  Un ejemplo de código donde añadimos una imágen sería este:
  ```
- <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" />
+ <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
  ```
 Y se vería de esta manera: <br> 
-<img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" />
+<img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
