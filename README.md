@@ -81,7 +81,7 @@ texto normal <br>
 <p align="center"> texto centrado </p>
 
 <b> EMOJIS </b> <br> 
-Si te gustan los <i>  emojis </i> puedes utilizarlos con el código que le corresponde: <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
+Si te gustan los <i>  emojis </i> 🤩😎 puedes utilizarlos con el código que le corresponde: <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
 
 ## Añadir los enlaces
 Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso dentro de mi propio Readme, también utilizo el lenguaje HTML. <br>
