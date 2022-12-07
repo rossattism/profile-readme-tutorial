@@ -67,6 +67,7 @@ Estos encabezados, además, <i> generan automáticamente </i> un enlace con ataj
 </p>
 
 ## Editar texto
+
 <p align="justify">
 Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
  </p>
@@ -125,11 +126,13 @@ Además, se puede cambiar el tamaño de la imágen modificando sus pixeles direc
 Y se vería de la siguiente forma: <br> 
 <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
 
+
 ## Iconos
 
 Una forma divertida y visual de editar nuestro perfil es <i> añadiendo iconos </i> con los lenguajes que conocemos o nos gustaría aprender para poder mostrarlo ante los reclutadores y que puedan darse una mejor idea sobre nosotoros. <b> Los iconos se añaden igual que las imágenes. </b> <br>
 
 Este es el ejemplo de código para agregar iconos:
+
  ```
  <img src="url de icono" alt="icono" />
  ```
