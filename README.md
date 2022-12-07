@@ -15,8 +15,8 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 <p align="center">
   <ol>
     <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
-    <li> <a href=""> Markdown o HTML </a> </li>
-    <li> <a href=""> Agregar encabezados </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-readme#agregar-encabezados"> Agregar encabezados </a> </li>
     <li> <a href=""> Editar texto </a> </li>
     <li> <a href=""> Añadir enlaces </a> </li>
     <li> <a href=""> Insertar imágenes </a> </li>
@@ -57,4 +57,7 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo.
 <br><br>
 
-## 📃 Editar texto y otras utilidades que encantan
+## Editar texto y otras utilidades
+<p align="justify">
+Para <i> escribir texto </i> dentro de nuestro Readme simplemente .
+ </p>
