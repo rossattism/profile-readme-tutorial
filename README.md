@@ -160,9 +160,9 @@ Aquí te dejo enlaces a repositorios con Badges: <br>
 <a href="https://github.com/Naereen/badges"> More badges </a> <br>
 <a href="https://github.com/Ileriayo/markdown-badges"> Markdown Badges </a> <br>
 
-## Comunidad 4️⃣2️⃣
+## Comunidad 42
 
-Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. Sería algo como esto: <br>
+Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. 😎 Sería algo como esto: <br>
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
   
