@@ -127,10 +127,43 @@ Y se vería de la siguiente forma: <br>
 
 ## Iconos
 
-Una forma divertida y visual de editar nuestro perfil es añadiendo iconos con los lenguajes que conocemos o nos gustaría aprender para poder mostrarlo ante los reclutadores y que puedan darse una mejor idea sobre nosotoros. Los iconos se añaden como las imágenes. Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar:
+Una forma divertida y visual de editar nuestro perfil es <i> añadiendo iconos </i> con los lenguajes que conocemos o nos gustaría aprender para poder mostrarlo ante los reclutadores y que puedan darse una mejor idea sobre nosotoros. <b> Los iconos se añaden igual que las imágenes. </b> <br>
 
+Este es el ejemplo de código para agregar iconos:
+ ```
+ <img src="url de icono" alt="icono" />
+ ```
+ 
+ Un ejemplo de código donde añadimos un icono sería este:
+ ```
+ <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" />
+ ```
+ 
+Y se vería de la siguiente forma: <br> 
+ <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" /> <br>
+
+Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar:
 <p align="center">
-<a href="https://github.com/tandpfun/skill-icons"> Iconos de Skills </a> <br>
-
+<a href="https://github.com/tandpfun/skill-icons"> Skill Icons </a> <br>
+<a href="https://github.com/marwin1991/profile-technology-icons"> Technology Icons </a> <br>
 </p>
 
+## Badges
+
+Los <i> badges </i> son <b> insignias </b> que podemos poner a nuestro perfil que hacen más <b> divertido o atractivo nuestro perfil </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a tu perfil de github, contar el peso de tu código en el repositorio o la cantidad de archivos que hay dentro. Hay muchísimas. Cada una tiene su código particular para insertarla en tu archivo Readme. <br>
+
+Aquí te dejo enlaces a repositorios con Badges: <br>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> Github Readme Stats </a> <br>
+<a href="https://github.com/Naereen/badges"> More badges </a> <br>
+  <a href="https://github.com/Ileriayo/markdown-badges"> Markdown Badges </a> <br>
+</p>
+
+## Comunidad 4️⃣2️⃣
+
+Les dejo, para cerrar, les dejo por <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a> una lista con repositorios útiles para la comunidad de 42, que incluye un repositorios con badges de 42 que te permite agregar al perfil un badge de nuestro perfil como estudiante en 42. Sería algo como esto: <br>
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
+  
+ <hr>
+ ¡Llegamos al <i> <b> final </b>! Espero que les haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
