@@ -17,9 +17,9 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-readme/blob/main/README.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-readme#agregar-encabezados"> Agregar encabezados </a> </li>
-    <li> <a href=""> Editar texto </a> </li>
-    <li> <a href=""> Añadir enlaces </a> </li>
-    <li> <a href=""> Insertar imágenes </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-readme#editar-texto"> Editar texto </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-readme#a%C3%B1adir-los-enlaces"> Añadir enlaces </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
     <li> <a href=""> Iconos y Badges </a> </li>
     <li> <a href=""> Para la Comunidad 42 </a> </li>
     
@@ -57,7 +57,7 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 ```
 <p align="justify">
 Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo.
-</p> <br>
+</p>
 
 ## Editar texto
 <p align="justify">
@@ -89,6 +89,12 @@ Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github o incluso 
  ```
  <a href="aquí va el enlace"> texto enlazado </a>
  ```
+Un ejemplo de código donde añadimos un enlace sería este:
+```
+Sígueme en Github haciendo click <a href="https://github.com/RossattiSM"> aquí </a>
+ ```
+Y se vería de esta manera: <br> 
+Sígueme en Github haciendo click <a href="https://github.com/RossattiSM"> aquí </a>
  
 ## Insertar imágenes
 Las <i> imágenes </i> también las vamos a insertar con ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o sino imágenes dentro del mismo Readme que tendríamos que subir al repositorio. <br>
