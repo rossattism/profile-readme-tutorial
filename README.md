@@ -9,7 +9,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <i> Si el contenido fue útil, no olvides dejarme una ⭐. </i> <br>
 
-<b> <i> ACLARACION: </i> </b> Hay muchas maneras de editar un Readme en Github, este modo de mi tutorial es básico y mayormente utilizo HTML para dar ejemplos de edición, pero eso no quiere decir que en muchos casos podamos también utilizar Markdown para hacerlo mismo e incluso más. <br>
+<b> ACLARACION: </b> Hay muchas maneras de editar un Readme en Github, el modo que enseño en mi tutorial es básico y utilizando mayormente HTML, pero eso no quiere decir que en muchos casos podamos también utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
 
 <hr>
 
