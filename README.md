@@ -80,6 +80,6 @@ texto normal <br>
 <p align="justify"> texto justificado </p>
 <p align="center"> texto centrado </p>
 
-  <p> <b> EMOJIS </b> </p> 
+<b> EMOJIS </b> <br> 
 Si te gustan los emojis, puedes utilizarlos con el código que le corresponde, <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
   
