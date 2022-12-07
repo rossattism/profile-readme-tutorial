@@ -81,5 +81,5 @@ texto normal <br>
 <p align="center"> texto centrado </p>
 
 <b> EMOJIS </b> <br> 
-Si te gustan los emojis, puedes utilizarlos con el código que le corresponde, <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
+Si te gustan los <i>  emojis </i> puedes utilizarlos con el código que le corresponde, <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
   
