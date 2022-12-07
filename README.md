@@ -76,7 +76,7 @@ texto normal
 Ejemplo de cómo se vería el código: <br>
 texto normal <br> 
 <i> texto en cursiva </i> <br> 
-<b> texto en negrilla </b> <br> 
+<b> texto en negrilla </b>
 <p align="justify"> texto justificado </p>
 <p align="center"> texto centrado </p>
 
