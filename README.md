@@ -142,7 +142,7 @@ Este es el código para agregar iconos:
 Y se vería de la siguiente forma: <br> 
  <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" /> <br>
 
-Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar: <br>
+Estos son enlaces a repositorios Github con iconos que te pueden interesar: <br>
 <a href="https://github.com/tandpfun/skill-icons"> Skill Icons </a> <br>
 <a href="https://github.com/marwin1991/profile-technology-icons"> Technology Icons </a> <br>
 
