@@ -31,7 +31,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <hr>
 
-## Primeros pasos en tu nueva aventura 
+## Primeros pasos en esta nueva aventura 
 
 <p align="justify">
 <ul>
