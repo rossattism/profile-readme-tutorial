@@ -10,7 +10,7 @@ Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
 <hr>
-<b> ANTES DE COMENZAR:  </b> No es menor aclarar que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utiliza en su mayoría el lenguaje HTML, lo que no quita que en muchos casos se pueda utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
+<b> ANTES DE COMENZAR:  </b> No es menor aclarar que hay muchas maneras de editar un archivo Readme. El modo enseñado en este tutorial es muy básico y utiliza tanto Markdown como HTML. <br>
 <hr>
 
 
@@ -28,7 +28,6 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#badges-"> Badges </a> </li>
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#comunidad-42"> Para la Comunidad 42 </a> </li>
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
-    
   </ol>
 </p>
 
@@ -56,94 +55,71 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#). La cantidad representa el tamaño de la letra: mientras más son las almohadillas menor es el tamaño de la letra.
  </p>
  
-```
-# Encabezado 1 
-## Encabezado 2 
-### Encabezado 3
-#### Encabezado 4
-```
+| Description     | Markdown        | HTML                    | Preview                       
+| ---             | ---             | ---                     | ---                                     
+| Encabezado 1 | `# Encabezado 1 `  |  `<h1> Encabezado 1 </h1>` |  <h1> Encabezado 1 </h1>
+| Encabezado 2 | `## Encabezado 2 ` |  `<h2> Encabezado 2 </h2>` |  <h2> Encabezado 2 </h2>
+| Encabezado 3 | `### Encabezado 3` |  `<h3> Encabezado 3 </h3>` |  <h3> Encabezado 3 </h3>
+| Encabezado 4 | `#### Encabezado 4 `  |  `<h4> Encabezado 4 </h4>` |  <h4> Encabezado 4 </h4>
+| Encabezado 5 | `##### Encabezado 5 ` |  `<h5> Encabezado 5 </h5>` |  <h5> Encabezado 5 </h5>
+| Encabezado 6 | `###### Encabezado 6 ` |  `<h6> Encabezado 6 </h6>` |  <h6> Encabezado 6 </h6>
+
 <p align="justify">
-El primero es el más grande y el último el más chico. <br>
 Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme (el menú se encuentra arriba a la izquierda).
 </p>
 
 ## Editar texto
 
 <p align="justify">
-Para <i> generar texto </i> se escribe de forma normal y, de ser necesario, se agrega etiquetas HTML para hacerlo más agradable a la vista. Cabe aclarar que no se puede embellecer demasiado un Readme, hay limitaciones. </p>
+Para <i> generar texto </i> se escribe de forma normal y, de ser necesario, se agrega etiquetas HTML para hacerlo más agradable a la vista. Nótese que no se puede embellecer demasiado un Readme, hay limitaciones. </p>
  
- ```
-texto normal
-<i> texto en cursiva </i>
-<b> texto en negrilla </b>
-<p align="justify"> texto justificado </p>
-<p align="center"> texto centrado </p>
-<br> salto de línea
-```
-
-Ejemplo de cómo se vería: <br>
-texto normal <br> 
-<i> texto en cursiva </i> <br> 
-<b> texto en negrilla </b>
-<p align="justify"> texto justificado </p>
-<p align="center"> texto centrado </p>
+| Descripción | Markdown         | HTML                    | Previsualización                      
+| ---         | ---              | ---                     | ---                                     
+| Normal      | ` Normal `       |  ` Normal `             |  Normal
+| Nergrilla  | ` ** Nergrilla ** `   |  ` <b> Nergrilla </b> ` |  <b> Nergrilla </b>
+| Cursiva   | ` * Cursiva *  ` |  ` <i> Cursiva </i> `   |  <i> Cursiva </i>
+| Justificado | No se puede      |  ` <p align="justify"> Justificado </p> ` | Justificado
+| Centrado    | No se puede      |  ` <p align="center"> Centrado  </p> `   | Centrado 
 
 <b> EMOJIS </b> <br> 
 También se pueden usar <i>  emojis </i> 🤩😎: <a href="https://gist.github.com/rxaviers/7360908"> aquí hay una lista </a> con el código que se necesita para poder agregarlos.
 
 ## Añadir los enlaces 🔗
 
-Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github, también se puede utilizar el lenguaje HTML. <br>
- ```
- <a href="aquí va el enlace"> texto enlazado </a>
- ```
-Un ejemplo de código donde se añade un enlace sería este:
-```
-Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
- ```
-Y se vería de la siguiente manera: <br> 
-Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
+Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github, también se puede utilizar ambos lenguajes. Es preferible HTML porque permite añadir estilos. <br>
+
+| Descripción | Markdown         | HTML                                                                             | Previsualización                       
+| ---         | ---              | ---                                                                              | ---                                     
+| Enlace       | ` 	[Enlace](https://github.com/RossattiSM/profile-readme-tutorial) `       |  ` <a href="https://github.com/RossattiSM/profile-readme-tutorial"> Enlace </a> `  | <a href="https://github.com/RossattiSM/profile-readme-tutorial"> Enlace </a>
+
  
 ## Insertar imágenes
 
-Con las <i> imágenes </i> también se puede usar HTML. Existen dos modos: imágenes insertadas desde otros sitios mediante la utilización de su dirección (url) o imágenes dentro del mismo Readme. Para esta última forma hay que subir la imágen al repositorio de forma manual y así poder agregar la ruta. <br>
+Con las <i> imágenes </i> también se puede usar ambos lenguajes. Al igual que con los enlaces, es preferible HTML porque permite añadir estilos. Existen dos modos: imágenes insertadas desde otros sitios mediante la utilización de su dirección (url) o imágenes dentro del mismo Readme. Para esta última forma hay que subir la imágen al repositorio de forma manual y así poder agregar la ruta. <br>
 
-Esta es la forma que se utiliza en HTML para insertar una imágen:
- ```
- <img src="aquí va el url de la imágen" alt="descripción de imágen" />
- ```
- 
-También se puede modificar el tamaño especificando los pixeles de la siguiente manera:
- ```
- <img src="aquí va el url de la imágen" alt="descripción de imágen" width="50px" height="50px" />
- ```
- 
- Un ejemplo de código donde se añade una imágen sería este:
- ```
- <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
- ```
+| Descripción | Markdown         | HTML                                                                               | Previsualización                              
+| ---         | ---              | ---                                                                                | ---            
+| Imágen       | ` ![descripción](url de imágen) `       |  ` <img src="url de imágen" alt="descripción" /> ` |  <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" style="heigth:150px; width: 150px" />
 
-Y se vería de la siguiente forma: <br> 
-<img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
+Código para cambiar el tamaño de una imágen: <br>
+```
+<img src="url de imágen" alt="descripción" style="heigth:150px; width: 150px" />
+```
 
+Código para centrar una imágen: <br>
+```
+<p align="center">
+<img src="url de imágen" alt="descripción" />
+</p>
+```
 
 ## Iconos
 
 Una forma divertida y visual de editar el perfil de Github es <i> añadiendo iconos </i> con los lenguajes que uno conoce o le gustaría aprender para poder mostrarlo a los reclutadores. <b> Los iconos se añaden igual que las imágenes. </b> <br>
 
-Este es el código para agregar iconos:
-
- ```
- <img src="url de icono" alt="icono" />
- ```
- 
- Un ejemplo donde se añade un icono sería este:
- ```
- <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" />
- ```
- 
-Y se vería de la siguiente forma: <br> 
- <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" /> <br>
+| Description | Markdown         | HTML                                                                           | Preview                                         
+| ---         | ---              | ---                                                                            | ---            
+| Icono        | ` ![descripción](url de icono) ` | ` <img src="url de icono" alt="descripción" /> ` | <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" />
 
 Estos son enlaces a repositorios Github con iconos que te pueden interesar: <br>
 <a href="https://github.com/tandpfun/skill-icons"> Skill Icons </a> <br>
@@ -183,7 +159,7 @@ Para cerrar, este sería un ejemplo de codigo de un perfil simple:
 
 Así es como se vería: <br>
 
-<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example.png" alt="profile example picture" width="600px" height="250px" />
+<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_es.png" alt="profile example picture" style="width: 650px; height: 300px" />
 
 
  <hr>
