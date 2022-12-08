@@ -25,9 +25,9 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
-    <li> <a href=""> Iconos </a> </li>
-    <li> <a href=""> Badges </a> </li>
-    <li> <a href=""> Para la Comunidad 42 </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#iconos"> Iconos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#badges"> Badges </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#comunidad-42"> Para la Comunidad 42 </a> </li>
     
   </ol>
 </p>
@@ -145,11 +145,9 @@ Este es el ejemplo de código para agregar iconos:
 Y se vería de la siguiente forma: <br> 
  <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" /> <br>
 
-Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar:
-<p align="center">
+Los siguientes son enlaces a repositorios Github con iconos que te pueden interesar: <br>
 <a href="https://github.com/tandpfun/skill-icons"> Skill Icons </a> <br>
 <a href="https://github.com/marwin1991/profile-technology-icons"> Technology Icons </a> <br>
-</p>
 
 ## Badges
 
@@ -162,9 +160,7 @@ Aquí te dejo enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. 😎 Sería algo como esto: <br>
+Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. 😎 <br>
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
-  
  <hr>
  ¡Llegamos al <i> <b> final </b>! Espero que les haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
