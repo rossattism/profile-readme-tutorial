@@ -67,7 +67,7 @@ Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un 
 ## Editar texto
 
 <p align="justify">
-Para <i> generar texto </i> simplemente se escribe de forma normal y se agregan las etiquetas HTML que interesen para hacer ver el archivo lo más agradable posible. Cabe aclarar que no se puede embellecer demasiado un Readme, hay limitaciones. </p>
+Para <i> generar texto </i> se escribe de forma normal y/o se agrega las etiquetas HTML que se necesiten para hacer ver el archivo lo más agradable posible. Cabe aclarar que no se puede embellecer demasiado un Readme, hay limitaciones. </p>
  
  ```
 texto normal
