@@ -160,7 +160,7 @@ Aquí te dejo enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye repositorios con badges que te permiten agregar al Readme una insignia de nuestro perfil como estudiante en 42. 😎 <br>
+Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye unos que tienen badges que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
 
  <hr>
  ¡Llegamos al <i> <b> final </b>! Espero que les haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
