@@ -163,4 +163,4 @@ This is how it would look: <br>
  <hr>
 We have reached the <i> <b> end </b>! I hope the tutorial was helpful, if so I'd be happy with a ⭐ as a thank you. Greetings.
   
-<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#tutorial-de-readme-by--rossattism-"> Click here </a> to return at the beginning. </i>
+<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial#readme-tutorial-by--rossattism-"> Click here </a> to return to the beginning. </i>
