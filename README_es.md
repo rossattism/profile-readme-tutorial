@@ -161,6 +161,15 @@ Así es como se vería: <br>
 
 <img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_es.png" alt="profile example picture" style="width: 650px; height: 300px" />
 
+ <hr>
+ 
+  <details>
+  <summary>Enlaces útiles</summary>
+
+<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github"> Markdown Tutorial in Github </a> <br>
+<a href="https://todoaprendecom.wordpress.com/2020/04/12/guia-basica-de-markdown/">Guía básica de Markdown</a>
+
+</details>
 
  <hr>
  ¡Llegamos al <b> final </b>! Si el tutorial te resulta útil, no olvides tu ⭐ como agradecimiento. ¡Hasta la próxima! <br>
