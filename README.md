@@ -59,9 +59,9 @@ The most simple way to add headings into your file is with <i> Markdown </i>, an
 | Heading Level 1 | `# Heading 1 `  |  `<h1> Heading 1 </h1>` |  <h1> Heading 1 </h1>
 | Heading Level 2 | `## Heading 2 ` |  `<h2> Heading 2 </h2>` |  <h2> Heading 2 </h2>
 | Heading Level 3 | `## Heading 3 ` |  `<h3> Heading 3 </h3>` |  <h3> Heading 3 </h3>
-| Heading Level 4 | `# Heading 4 `  |  `<h4> Heading 4 </h4>` |  <h4> Heading 4 </h4>
-| Heading Level 5 | `## Heading 5 ` |  `<h5> Heading 5 </h5>` |  <h5> Heading 5 </h5>
-| Heading Level 6 | `## Heading 6 ` |  `<h6> Heading 6 </h6>` |  <h6> Heading 6 </h6>
+| Heading Level 4 | `#### Heading 4 `  |  `<h4> Heading 4 </h4>` |  <h4> Heading 4 </h4>
+| Heading Level 5 | `##### Heading 5 ` |  `<h5> Heading 5 </h5>` |  <h5> Heading 5 </h5>
+| Heading Level 6 | `###### Heading 6 ` |  `<h6> Heading 6 </h6>` |  <h6> Heading 6 </h6>
 
 <p align="justify">
 Something really useful about headings is that they have an <i> automatically generated link </i> showed in the hamburger menu (☰) of the Readme file (you can find it up and to the left).
