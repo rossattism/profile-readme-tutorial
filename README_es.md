@@ -1,6 +1,6 @@
 Selecciona tu lenguaje de preferencia: <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md"> ES </a>
 
-# Tutorial de Readme hecho por <a href="https://github.com/RossattiSM"> RossattiSM </a>
+# Tutorial de Readme por <a href="https://github.com/RossattiSM"> RossattiSM </a>
 
 > “La naturaleza nos ha dado las semillas del conocimiento, no el conocimiento mismo.” ― Séneca
 
