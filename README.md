@@ -157,7 +157,7 @@ Thanks for visiting my profile!
 
 This is how it would look: <br>
 
-<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="600px" height="300px" />
+<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="700px" height="260px" />
 
 
  <hr>
