@@ -25,6 +25,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#iconos"> Iconos </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme/blob/main/README.md#badges-"> Badges </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#comunidad-42"> Para la Comunidad 42 </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
     
   </ol>
 </p>
@@ -158,6 +159,40 @@ Estos son enlaces a repositorios con Badges: <br>
 ## Comunidad 42
 
 Haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, irás a una lista que hice con repositorios útiles para estudiantes. Algunos incluyen consejos y código, otros badges divertidas que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. <br>
+
+## Ejemplo de Perfil
+
+Para cerrar, este sería un ejemplo de codigo de un perfil simple:
+```
+# Hola mundo! 👋
+
+- ✨ Actualmente, estoy aprendiendo <b> HTML, CSS y JavaScript. </b>
+- 👀 Estoy interesad@ en apender <b> React. </b>
+
+# Redes sociales
+<a href="https://www.linkedin.com/"> Linkedin </a> <br>
+<a href="https://www.instagram.com/"> Instagram </a> <br>
+<a href="https://github.com"> Github </a> <br>
+
+<hr>
+
+¡Gracias por visitar mi perfil!
+```
+Así es como se vería: <br>
+# Hola mundo! 👋
+
+- ✨ Actualmente, estoy aprendiendo <b> HTML, CSS y JavaScript. </b>
+- 👀 Estoy interesad@ en apender <b> React. </b>
+
+# Redes sociales
+<a href="https://www.linkedin.com/"> Linkedin </a> <br>
+<a href="https://www.instagram.com/"> Instagram </a> <br>
+<a href="https://github.com"> Github </a> <br>
+
+<hr>
+
+¡Gracias por visitar mi perfil!
+
 
  <hr>
  ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
