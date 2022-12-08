@@ -103,7 +103,7 @@ Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  
 ## Insertar imágenes
 
-Con las <i> imágenes </i> también se puede usar HTML. Existen dos modos: imágenes insertadas de otros sitios mediante la utilización de su dirección (url) o imágenes dentro del mismo Readme. De esta última forma se tiene que subir la imágen al repositorio de forma manual para poder agregar la ruta a ese archivo y que funcione. <br>
+Con las <i> imágenes </i> también se puede usar HTML. Existen dos modos: imágenes insertadas desde otros sitios mediante la utilización de su dirección (url) o imágenes dentro del mismo Readme. Para esta última forma hay que subir la imágen al repositorio de forma manual y así poder agregar la ruta. <br>
 
 Esta es la forma que se utiliza en HTML para insertar una imágen:
  ```
