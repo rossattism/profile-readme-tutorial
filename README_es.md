@@ -187,6 +187,6 @@ Así es como se vería: <br>
 
 
  <hr>
- ¡Llegamos al <b> final </b>! Espero que el tutorial haya resultado útil. No me enojo si me dejas una ⭐ como agradecimiento. ¡Hasta la próxima! <br>
+ ¡Llegamos al <b> final </b>! Si el tutorial te resulta útil, no olvides tu ⭐ como agradecimiento. ¡Hasta la próxima! <br>
 
   <i> Haz <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#tutorial-de-readme-by--rossattism-"> click aquí </a> para volver al inicio. </i>
