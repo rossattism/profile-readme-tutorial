@@ -69,7 +69,7 @@ Estos encabezados, además, <i> generan automáticamente </i> un enlace con ataj
 ## Editar texto
 
 <p align="justify">
-Para <i> escribir texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
+Para <i> generar texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
  </p>
  
  ```
