@@ -61,7 +61,7 @@ La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para ha
 ```
 <p align="justify">
 El primero es el más grande y el último el más chico. <br>
-Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme para una navegación más sencilla dentro del mismo.
+Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme (arriba a la izquierda).
 </p>
 
 ## Editar texto
