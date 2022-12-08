@@ -53,7 +53,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 ## Agregar encabezados
 
 <p align="justify">
-La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo utilizamos <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño de la letra.
+La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#) antes de cada encabezado. La cantidad de almohadillas representa el tamaño de la letra, mientras más almohadillas menor el tamaño de la letra.
  </p>
  
 ```
@@ -63,14 +63,13 @@ La forma más sencilla de agregar encabezados a nuestro Readme es con <i> Markdo
 #### Encabezado 4
 ```
 <p align="justify">
-Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) de nuestro Readme para una navegación más sencilla dentro del mismo.
+Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) del archivo Readme para una navegación más sencilla dentro del mismo.
 </p>
 
 ## Editar texto
 
 <p align="justify">
-Para <i> generar texto </i> dentro de nuestro Readme simplemente escribiremos de forma normal y agregaremos las etiquetas HTML que nos interesen para hacerlo ver más bonito.
- </p>
+Para <i> generar texto </i> simplemente se escribe de forma normal y se agregan las etiquetas HTML que interesen para hacer ver el archivo lo más agradable posible. Cabe aclarar que no se puede embellecer demasiado un Readme, hay limitaciones. </p>
  
  ```
 texto normal
@@ -89,15 +88,15 @@ texto normal <br>
 <p align="center"> texto centrado </p>
 
 <b> EMOJIS </b> <br> 
-Si te gustan los <i>  emojis </i> 🤩😎 puedes utilizarlos con el código que le corresponde: <a href="https://gist.github.com/rxaviers/7360908"> aquí tienes la lista </a>.
+Si te gustan los <i>  emojis </i> 🤩😎 se utilizan el código que le corresponde a cada uno: <a href="https://gist.github.com/rxaviers/7360908"> aquí hay una lista </a>.
 
 ## Añadir los enlaces 🔗
 
-Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github, también utilizo el lenguaje HTML. <br>
+Para <i> hacer enlaces </i> a otras páginas dentro y fuera de github, también se puede utilizar el lenguaje HTML. <br>
  ```
  <a href="aquí va el enlace"> texto enlazado </a>
  ```
-Un ejemplo de código donde añadimos un enlace sería este:
+Un ejemplo de código donde se añade un enlace sería este:
 ```
 Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  ```
@@ -106,19 +105,19 @@ Sígueme en <a href="https://github.com/RossattiSM"> Github </a>.
  
 ## Insertar imágenes
 
-Con las <i> imágenes </i> también necesitamos la ayuda de HTML. Se pueden insertar imágenes sacadas de internet obteniendo su dirección o imágenes dentro del mismo Readme que tendríamos que subir al repositorio manualmente para poder agregar la ruta a nuestro archivo. <br>
+Con las <i> imágenes </i> también se puede usar HTML. Existen dos modos: imágenes insertadas de otros sitios con su dirección o imágenes dentro del mismo Readme. De esta última forma se tiene que subir la imágen al repositorio de forma manual para poder agregar la ruta a ese archivo y que funcione. <br>
 
-Esta es la forma que utilizamos en HTML para insertar una imágen:
+Esta es la forma que se utiliza en HTML para insertar una imágen:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" />
  ```
  
-Además, se puede cambiar el tamaño de la imágen modificando sus pixeles directamente con código de la siguiente manera:
+Además, se puede cambiar su tamaño modificando los pixeles directamente con código de la siguiente manera:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" width="50px" height="50px" />
  ```
  
- Un ejemplo de código donde añadimos una imágen sería este:
+ Un ejemplo de código donde se añade una imágen sería este:
  ```
  <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" width="200px" height="200px" />
  ```
@@ -129,15 +128,15 @@ Y se vería de la siguiente forma: <br>
 
 ## Iconos
 
-Una forma divertida y visual de editar nuestro perfil es <i> añadiendo iconos </i> con los lenguajes que conocemos o nos gustaría aprender para poder mostrarlo ante los reclutadores y que puedan darse una mejor idea sobre nosotoros. <b> Los iconos se añaden igual que las imágenes. </b> <br>
+Una forma divertida y visual de editar el perfil de Github es <i> añadiendo iconos </i> con los lenguajes que uno conoce o le gustaría aprender para poder mostrarlo ante los reclutadores. <b> Los iconos se añaden igual que las imágenes. </b> <br>
 
-Este es el ejemplo de código para agregar iconos:
+Este es el código para agregar iconos:
 
  ```
  <img src="url de icono" alt="icono" />
  ```
  
- Un ejemplo de código donde añadimos un icono sería este:
+ Un ejemplo donde se añade un icono sería este:
  ```
  <img src="https://skillicons.dev/icons?i=linkedin" alt="logo linkedin" />
  ```
@@ -151,7 +150,7 @@ Los siguientes son enlaces a repositorios Github con iconos que te pueden intere
 
 ## Badges
 
-Los <i> badges </i> son <b> insignias </b> que podemos poner a nuestro perfil que hacen más <b> divertido o atractivo nuestro perfil </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a tu perfil de github, contar el peso de tu código en el repositorio o la cantidad de archivos que hay dentro. Hay muchísimas. Cada una tiene su código particular para insertarla en tu archivo Readme. <br>
+Los <i> badges </i> son <b> insignias </b> que se pueden agregar al perfil y hacerlo más <b> divertido o atractivo </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a un perfil de github, contar el peso del código dentro de un repositorio o la cantidad de archivos que hay. Existen muchísimas insignias diferentes. Cada una tiene su código particular para insertarla en el archivo Readme. <br>
 
 Aquí te dejo enlaces a repositorios con Badges: <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> Github Readme Stats </a> <br>
@@ -160,7 +159,7 @@ Aquí te dejo enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Para cerrar, si hacen click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarán una lista con repositorios útiles para la comunidad de 42 que incluye unos que tienen badges que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
+Para cerrar, si sos de la comunidad 42, haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarás una lista con repositorios útiles que incluyen badges que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
 
  <hr>
- ¡Llegamos al <i> <b> final </b>! Espero que les haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
+ ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
