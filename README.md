@@ -44,7 +44,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 ## 🤓 Markdown o HTML, esa es la cuestión 
 
 <p align="justify">
-¡Para qué elegir, si se puede usar los dos! Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices los famosos <i> Ctrl+C </i> y <i> Ctrl+V </i>.
+¡Para qué elegir, si se puede usar los dos! Para editar el Readme se utiliza el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, en el tutorial integro código para que utilices el famoso <i> copypaste </i>. Además, Google tiene todas las otras respuestas que yo no doy.
  </p>
 
 ## Agregar encabezados
