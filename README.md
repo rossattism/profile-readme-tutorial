@@ -16,7 +16,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#primeros-pasos-en-tu-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#agregar-encabezados"> Agregar encabezados </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
@@ -44,7 +44,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 ## 🤓 Markdown o HTML, esa es la cuestión 
 
 <p align="justify">
-¡Para qué elegir, si podemos usar los dos! Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices los famosos <i> Ctrl+C </i> y <i> Ctrl+V </i>.
+¡Para qué elegir, si se puede usar los dos! Para editar el Readme se usa el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. No te preocupes si no los conocés porque, además de que son sencillos, voy a ir integrando código en el tutorial para que solo utilices los famosos <i> Ctrl+C </i> y <i> Ctrl+V </i>.
  </p>
 
 ## Agregar encabezados
