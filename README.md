@@ -18,16 +18,16 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#agregar-encabezados"> Agregar encabezados </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#editar-texto"> Editar texto </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#iconos"> Iconos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme/blob/main/README.md#badges-"> Badges </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#comunidad-42"> Para la Comunidad 42 </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#agregar-encabezados"> Agregar encabezados </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#editar-texto"> Editar texto </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#iconos"> Iconos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md#badges-"> Badges </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#comunidad-42"> Para la Comunidad 42 </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
     
   </ol>
 </p>
