@@ -58,7 +58,7 @@ The most simple way to add headings into your file is with <i> Markdown </i>, an
 | ---             | ---             | ---                     | ---                                     
 | Heading Level 1 | `# Heading 1 `  |  `<h1> Heading 1 </h1>` |  <h1> Heading 1 </h1>
 | Heading Level 2 | `## Heading 2 ` |  `<h2> Heading 2 </h2>` |  <h2> Heading 2 </h2>
-| Heading Level 3 | `## Heading 3 ` |  `<h3> Heading 3 </h3>` |  <h3> Heading 3 </h3>
+| Heading Level 3 | `### Heading 3 ` |  `<h3> Heading 3 </h3>` |  <h3> Heading 3 </h3>
 | Heading Level 4 | `#### Heading 4 `  |  `<h4> Heading 4 </h4>` |  <h4> Heading 4 </h4>
 | Heading Level 5 | `##### Heading 5 ` |  `<h5> Heading 5 </h5>` |  <h5> Heading 5 </h5>
 | Heading Level 6 | `###### Heading 6 ` |  `<h6> Heading 6 </h6>` |  <h6> Heading 6 </h6>
