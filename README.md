@@ -110,7 +110,7 @@ Esta es la forma que se utiliza en HTML para insertar una imágen:
  <img src="aquí va el url de la imágen" alt="descripción de imágen" />
  ```
  
-Además, se puede cambiar su tamaño modificando los pixeles directamente con código de la siguiente manera:
+También se puede modificar el tamaño especificando los pixeles de la siguiente manera:
  ```
  <img src="aquí va el url de la imágen" alt="descripción de imágen" width="50px" height="50px" />
  ```
