@@ -3,7 +3,7 @@ Select your preferred language: <a href="https://github.com/RossattiSM/profile-r
 
 # Readme Tutorial by <a href="https://github.com/RossattiSM"> RossattiSM </a>
 
-> "Nature has given us the seeds of knowledge, not knowledge itself." ― Séneca
+> "Nature has given us the seeds of knowledge, not knowledge itself." ― Seneca
 
 ## Welcome!
 
