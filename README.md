@@ -86,7 +86,7 @@ texto normal <br>
 <p align="center"> texto centrado </p>
 
 <b> EMOJIS </b> <br> 
-También se pueden añadir <i>  emojis </i> 🤩😎: <a href="https://gist.github.com/rxaviers/7360908"> aquí hay una lista </a> con el código que se necesita para poder agregarlos.
+También se pueden usar <i>  emojis </i> 🤩😎: <a href="https://gist.github.com/rxaviers/7360908"> aquí hay una lista </a> con el código que se necesita para poder agregarlos.
 
 ## Añadir los enlaces 🔗
 
