@@ -159,7 +159,7 @@ Para cerrar, este sería un ejemplo de codigo de un perfil simple:
 
 Así es como se vería: <br>
 
-<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_es.png" alt="profile example picture" style="width: 650px; height: 300px" />
+<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_es.png" alt="profile example picture" style="width: 650px; height: 270px" />
 
  <hr>
  
