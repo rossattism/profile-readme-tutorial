@@ -180,20 +180,10 @@ Para cerrar, este sería un ejemplo de codigo de un perfil simple:
 
 ¡Gracias por visitar mi perfil!
 ```
+
 Así es como se vería: <br>
-# Hola mundo! 👋
 
-- ✨ Actualmente, estoy aprendiendo <b> HTML, CSS y JavaScript. </b>
-- 👀 Estoy interesad@ en apender <b> React. </b>
-
-# Redes sociales
-<a href="https://www.linkedin.com/"> Linkedin </a> <br>
-<a href="https://www.instagram.com/"> Instagram </a> <br>
-<a href="https://github.com"> Github </a> <br>
-
-<hr>
-
-¡Gracias por visitar mi perfil!
+<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example.png" alt="profile example picture" />
 
 
  <hr>
