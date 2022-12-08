@@ -10,7 +10,7 @@ Select your preferred language: <a href="https://github.com/RossattiSM/profile-r
 If you visit a <b> personalized Github profile </b> and you realize that you'd like to do the same, this tutorial is for you. 
 I teach you a basic way to edit your profile and make it look appealing to recruiters. <br>
 
-<b> READ BEFORE STARTING: </b> It is important to clarify that there are many ways to edit a Readme file. This is a basic tutorial and uses both Markdown and HTML. <br>
+<b> READ: </b> It is important to clarify that there are many ways to edit a Readme file. This is a basic tutorial and uses both Markdown and HTML. <br>
 <hr>
 
 ## Content
