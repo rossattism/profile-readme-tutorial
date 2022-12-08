@@ -187,4 +187,4 @@ Así es como se vería: <br>
 
 
  <hr>
- ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
+ ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil, si es así, me alegraría con una ⭐ como agradecimiento. Saludos.
