@@ -1,24 +1,23 @@
 Select your preferred language: <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md"> ES </a>
-
-# Tutorial de Readme by <a href="https://github.com/RossattiSM"> RossattiSM </a>
-
-> “La naturaleza nos ha dado las semillas del conocimiento, no el conocimiento mismo.” ― Séneca
-
-## ¡Bienvenid@!
-
-Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te gustaría hacer lo mismo pero no sabes ni por dónde empezar, este tutorial es para vos. 
-Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
-
-<hr>
-<b> ANTES DE COMENZAR:  </b> No es menor aclarar que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utiliza en su mayoría el lenguaje HTML, lo que no quita que en muchos casos se pueda utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
 <hr>
 
+# Readme Tutorial by <a href="https://github.com/RossattiSM"> RossattiSM </a>
 
-## Contenido 
+> "Nature has given us the seeds of knowledge, not knowledge itself." ― Séneca
+
+## Welcome!
+
+If you visit a <b> personalized Github profile </b> and you realize that you'd like to do the same, this tutorial is for you. 
+I teach you a basic way to edit your profile and make it look cute for the recruiters. <br>
+
+<b> READ BEFORE STARTING: </b> It is important to clarify that there are many ways to edit a Readme file. This is a basic tutorial and uses both Markdown and HTML. <br>
+<hr>
+
+## Content
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#primeros-pasos-en-esta-nueva-aventura"> First Steps </a> </li>
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#agregar-encabezados"> Agregar encabezados </a> </li>
     <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#editar-texto"> Editar texto </a> </li>
@@ -34,36 +33,36 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <hr>
 
-## Primeros pasos en esta nueva aventura 
+## First Steps in this New Adventure
 
 <p align="justify">
 <ul>
-  <li> Crear un nuevo repositorio que tenga el <i> mismo nombre </i> que tu <b> nombre de usuario en Github </b> </li> 
-  <li> Seleccionar la pestaña </i> "Add a Readme file" para agregar un Readme que permita la personalización del perfil </li> 
-  <li> Editar el archivo fácilmente desde Github con los <b> <i> tips </i> </b> que doy en este repo ✨ </li> 
+  <li> Create a new repository which contains the <i> same name </i> as <b> your Github username </b> </li> 
+  <li> Select the <i> "Add a Readme file" </i> checkbox to add a Readme to personalize your profile </li> 
+  <li> Edit the file easily with this <b> <i> tips </i> </b> I give you in this repo ✨ </li> 
 </ul>
  </p>
 
-## 🤓 Markdown o HTML, esa es la cuestión 
+## 🤓 Markdown or HTML, that is the question
 
 <p align="justify">
-¡Para qué elegir, si se puede usar los dos! Para editar el Readme se utiliza el lenguaje Markdown y/o el lenguaje HTML, este último con algunas limitaciones que se descubren sobre la marcha. Que no te preocupe no conocerlos porque, además de que son sencillos, en el tutorial integro código para que hagas el famoso <i> copypaste</i>. Y sino, existe san Google.
+Why choose if you can use both! To edit the Readme file, you can use either Markdown or HTML, the latter with some limitations that are discovered on the way. Do not worry about not knowing them because, in addition to being simple, in this tutorial I integrate code for you to do the famous <i> copypaste</i>. And if not, Saint Google will help you.
  </p>
 
-## Agregar encabezados
+## Add Headings
 
 <p align="justify">
-La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#). La cantidad representa el tamaño de la letra: mientras más son las almohadillas menor es el tamaño de la letra.
+The most simple way to add headings into your file is with <i> Markdown </i>, and to do so you can use <b> hash marks </b> (#). The amount used represents the size of the letter: the more hash marks, the smaller the letters.
  </p>
- 
-```
-# Encabezado 1 
-## Encabezado 2 
-### Encabezado 3
-#### Encabezado 4
-```
+
+| Description     | Markdown        | HTML                    
+| ---             | ---             | ---                     
+| Heading Level 1 | `# Heading 1 `  |  `<h1> Heading 1 </h1>` 
+| Heading Level 2 | `## Heading 2 ` |  `<h2> Heading 2 </h2>`
+
+<b> Preview: </b> <br>
+
 <p align="justify">
-El primero es el más grande y el último el más chico. <br>
 Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme (el menú se encuentra arriba a la izquierda).
 </p>
 
