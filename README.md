@@ -126,7 +126,7 @@ Y se vería de la siguiente forma: <br>
 
 ## Iconos
 
-Una forma divertida y visual de editar el perfil de Github es <i> añadiendo iconos </i> con los lenguajes que uno conoce o le gustaría aprender para poder mostrarlo ante los reclutadores. <b> Los iconos se añaden igual que las imágenes. </b> <br>
+Una forma divertida y visual de editar el perfil de Github es <i> añadiendo iconos </i> con los lenguajes que uno conoce o le gustaría aprender para poder mostrarlo a los reclutadores. <b> Los iconos se añaden igual que las imágenes. </b> <br>
 
 Este es el código para agregar iconos:
 
