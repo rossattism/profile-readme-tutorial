@@ -146,7 +146,7 @@ Estos son enlaces a repositorios Github con iconos que te pueden interesar: <br>
 <a href="https://github.com/tandpfun/skill-icons"> Skill Icons </a> <br>
 <a href="https://github.com/marwin1991/profile-technology-icons"> Technology Icons </a> <br>
 
-## Badges
+## Badges 😎
 
 Los <i> badges </i> son <b> insignias </b> que se pueden agregar al perfil y hacerlo más <b> divertido o atractivo </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a un perfil de github, contar el peso del código dentro de un repositorio o la cantidad de archivos que hay. Existen muchísimas insignias diferentes. Cada una tiene su código particular para insertarla en el archivo Readme. <br>
 
@@ -157,7 +157,7 @@ Estos son enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, irás a una lista que hice con repositorios útiles para estudiantes. Algunos incluyen consejos y código, otros badges divertidas que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
+Haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, irás a una lista que hice con repositorios útiles para estudiantes. Algunos incluyen consejos y código, otros badges divertidas que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. <br>
 
  <hr>
  ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
