@@ -23,7 +23,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#iconos"> Iconos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#badges"> Badges </a> </li>
+    <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme/blob/main/README.md#badges-"> Badges </a> </li>
     <li> <a href="https://github.com/RossattiSM/tutorial-perfil-readme#comunidad-42"> Para la Comunidad 42 </a> </li>
     
   </ol>
