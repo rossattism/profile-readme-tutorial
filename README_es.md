@@ -65,7 +65,7 @@ La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para ha
 | Encabezado 6 | `###### Encabezado 6 ` |  `<h6> Encabezado 6 </h6>` |  <h6> Encabezado 6 </h6>
 
 <p align="justify">
-Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme (el menú se encuentra arriba a la izquierda).
+Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme (se encuentra arriba a la izquierda).
 </p>
 
 ## Editar texto
