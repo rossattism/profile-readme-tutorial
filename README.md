@@ -30,6 +30,14 @@ I teach you a basic way to edit your profile and make it look appealing to recru
   </ol>
 </p>
 
+ <details>
+  <summary>Useful links</summary>
+
+<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github"> Markdown Tutorial in Github </a>
+<a href="https://www.markdownguide.org/basic-syntax/"> Basic Syntax Markdown Tutorial </a>
+
+</details>
+
 <hr>
 
 ## First Steps in this New Adventure
@@ -159,8 +167,7 @@ This is how it would look: <br>
 
 <img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="700px" height="260px" />
 
-
  <hr>
 We have reached the <i> <b> end </b>! I hope the tutorial was helpful, if so I'd be happy with a ⭐ as a thank you. Greetings.
   
-<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial#readme-tutorial-by--rossattism-"> Click here </a> to return to the beginning. </i>
+<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial#readme-tutorial-by--rossattism-"> Click here </a> to return at the beginning. </i>
