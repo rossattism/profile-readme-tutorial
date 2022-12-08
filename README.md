@@ -17,17 +17,16 @@ I teach you a basic way to edit your profile and make it look appealing to recru
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#primeros-pasos-en-esta-nueva-aventura"> First Steps </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown or HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#agregar-encabezados"> Add Headings </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#editar-texto"> Edit Text </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#a%C3%B1adir-los-enlaces-"> Links </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#insertar-im%C3%A1genes"> Insert images </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#iconos"> Icons </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md#badges-"> Badges </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#comunidad-42"> 42 Community </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#ejemplo-de-perfil"> Profile Example </a> </li>
-    
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#first-steps-in-this-new-adventure"> First Steps </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#-markdown-or-html-that-is-the-question"> Markdown or HTML </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#add-headings"> Add Headings </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#edit-text"> Edit Text </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#links-"> Links </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#insert-images"> Insert images </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#icons"> Icons </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#badges-"> Badges </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#42-community"> 42 Community </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#profile-example"> Profile Example </a> </li>
   </ol>
 </p>
 
@@ -158,22 +157,10 @@ Thanks for visiting my profile!
 
 This is how it would look: <br>
 
-# Hello World! 👋
-
-- ✨ I'm currently learning <b> HTML, CSS and JavaScript. </b>
-- 👀 I'm intrested in <b> React. </b>
-
-# Social Links
-<a href="https://www.linkedin.com/"> Linkedin </a> <br>
-<a href="https://www.instagram.com/"> Instagram </a> <br>
-<a href="https://github.com"> Github </a> <br>
-
-<hr>
-
-Thanks for visiting my profile!
-
-<img src="" alt="profile example picture" width="600px" height="250px" />
+<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="600px" height="250px" />
 
 
  <hr>
 We have reached the <i> <b> end </b>! I hope the tutorial was helpful, if so I'd be happy with a ⭐ as a thank you. Greetings.
+  
+<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#tutorial-de-readme-by--rossattism-"> Click here </a> to return at the beginning. </i>
