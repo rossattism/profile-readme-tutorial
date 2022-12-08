@@ -8,7 +8,7 @@ Si cada vez que <b> visitas un perfil personalizado </b> te das cuenta de que te
 Te enseño de manera básica como editar tu perfil y dejarlo bonito para los reclutadores. <br>
 
 <hr>
-<b> ANTES DE COMENZAR:  </b> No es menor aclarar que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y utilizando mayormente HTML, lo que no quita que en muchos casos se pueda utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
+<b> ANTES DE COMENZAR:  </b> No es menor aclarar que hay muchas maneras de editar un archivo Readme en Github y que el modo enseñado en este tutorial es muy básico y que lo explico para utilizar en su mayoría el lenguaje HTML, lo que no quita que en muchos casos se pueda utilizar Markdown para hacer lo mismo o incluso mucho más. <br>
 <hr>
 
 
