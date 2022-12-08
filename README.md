@@ -99,12 +99,12 @@ Markdown and HTML can also be used with <i> images </i>. I also prefer HTML for 
 | ---         | ---              | ---                                                                                | ---            
 | Image       | ` ![description of image](url to image) `       |  ` <img src="url of image" alt="description of image" /> ` |  <img src="https://ih1.redbubble.net/image.1102897194.2281/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="RTFM" style="heigth:150px; width: 150px" />
 
-Code to change the size of an image: <br>
+Code to change the size of an image:
 ```
 <img src="url of image" alt="description of image" style="heigth:150px; width: 150px" />
 ```
 
-Code to center an image: <br>
+Code to center an image: 
 ```
 <p align="center">
 <img src="url of image" alt="description of image" />
