@@ -150,7 +150,7 @@ Estos son enlaces a repositorios Github con iconos que te pueden interesar: <br>
 
 Los <i> badges </i> son <b> insignias </b> que se pueden agregar al perfil y hacerlo más <b> divertido o atractivo </b> para quien lo vea. Algunos ejemplos de lo que pueden hacer estas insignias son: contar cuánta gente ingresa a un perfil de github, contar el peso del código dentro de un repositorio o la cantidad de archivos que hay. Existen muchísimas insignias diferentes. Cada una tiene su código particular para insertarla en el archivo Readme. <br>
 
-Aquí te dejo enlaces a repositorios con Badges: <br>
+Estos son enlaces a repositorios con Badges: <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> Github Readme Stats </a> <br>
 <a href="https://github.com/Naereen/badges"> More badges </a> <br>
 <a href="https://github.com/Ileriayo/markdown-badges"> Markdown Badges </a> <br>
