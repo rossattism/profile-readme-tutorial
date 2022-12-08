@@ -33,7 +33,7 @@ I teach you a basic way to edit your profile and make it look appealing to recru
  <details>
   <summary>Useful links</summary>
 
-<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github"> Markdown Tutorial in Github </a>
+<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github"> Markdown Tutorial in Github </a> <br>
 <a href="https://www.markdownguide.org/basic-syntax/"> Basic Syntax Markdown Tutorial </a>
 
 </details>
