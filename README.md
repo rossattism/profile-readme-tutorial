@@ -50,7 +50,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 ## Agregar encabezados
 
 <p align="justify">
-La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#). La cantidad representa el tamaño de la letra, mientras más son las almohadillas menor es el tamaño de la letra.
+La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#). La cantidad representa el tamaño de la letra: mientras más son las almohadillas menor es el tamaño de la letra.
  </p>
  
 ```
