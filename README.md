@@ -157,7 +157,7 @@ Estos son enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Para cerrar, si sos de la comunidad 42, haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarás una lista con repositorios útiles que incluyen badges que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
+Para cerrar, si sos de la comunidad 42, haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, encontrarás una lista que hice con repositorios útiles para estudiantes. Algunos repositorios incluyen consejos de otros estudiantes y otros tienen badges que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. 😎 <br>
 
  <hr>
  ¡Llegamos al <i> <b> final </b>! Espero que el tutorial haya resultado útil y me alegren el día con una ⭐ como agradecimiento. Saludos.
