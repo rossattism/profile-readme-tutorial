@@ -54,13 +54,14 @@ La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para ha
  </p>
  
 ```
-# Encabezado 1
-## Encabezado 2
+# Encabezado 1 
+## Encabezado 2 
 ### Encabezado 3
 #### Encabezado 4
 ```
 <p align="justify">
-Estos encabezados, además, <i> generan automáticamente </i> un enlace con atajo que se muestra en el menú hamburguesa (☰) del archivo Readme para una navegación más sencilla dentro del mismo.
+El primero es el más grande y el último el más chico. <br>
+Algo muy útil de estos encabezados es que <i> generan automáticamente </i> un enlace que se muestra en el menú hamburguesa (☰) del archivo Readme para una navegación más sencilla dentro del mismo.
 </p>
 
 ## Editar texto
