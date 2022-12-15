@@ -1,4 +1,4 @@
-Selecciona tu lenguaje de preferencia: <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md"> ES </a>
+Selecciona tu lenguaje de preferencia: <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md"> ES </a>
 
 # Tutorial de Readme por <a href="https://github.com/RossattiSM"> RossattiSM </a>
 
@@ -18,16 +18,16 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#agregar-encabezados"> Agregar encabezados </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#editar-texto"> Editar texto </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#iconos"> Iconos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#badges-"> Badges </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#comunidad-42"> Para la Comunidad 42 </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#agregar-encabezados"> Agregar encabezados </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#editar-texto"> Editar texto </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#iconos"> Iconos </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#badges-"> Badges </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#comunidad-42"> Para la Comunidad 42 </a> </li>
+    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
   </ol>
 </p>
 
@@ -174,4 +174,4 @@ Así es como se vería: <br>
  <hr>
  ¡Llegamos al <b> final </b>! Si el tutorial te resulta útil, no olvides tu ⭐ como agradecimiento. ¡Hasta la próxima! <br>
 
-  <i> Haz <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README_es.md#tutorial-de-readme-por--rossattism-"> click aquí </a> para volver al inicio. </i>
+  <i> Haz <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#tutorial-de-readme-por--rossattism-"> click aquí </a> para volver al inicio. </i>
