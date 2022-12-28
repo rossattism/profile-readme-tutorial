@@ -55,7 +55,7 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 La forma más sencilla de agregar encabezados es con <i> Markdown </i> y para hacerlo se utilizan <b> almohadillas </b> (#). La cantidad representa el tamaño de la letra: mientras más son las almohadillas menor es el tamaño de la letra.
  </p>
  
-| Description     | Markdown        | HTML                    | Preview                       
+| Descripción    | Markdown        | HTML                    | Previsualización                  
 | ---             | ---             | ---                     | ---                                     
 | Encabezado 1 | `# Encabezado 1 `  |  `<h1> Encabezado 1 </h1>` |  <h1> Encabezado 1 </h1>
 | Encabezado 2 | `## Encabezado 2 ` |  `<h2> Encabezado 2 </h2>` |  <h2> Encabezado 2 </h2>
