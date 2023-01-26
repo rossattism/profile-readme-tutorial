@@ -175,3 +175,10 @@ Así es como se vería: <br>
  ¡Llegamos al <b> final </b>! Si el tutorial te resulta útil, no olvides tu ⭐ como agradecimiento. ¡Hasta la próxima! <br>
 
   <i> Haz <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#tutorial-de-readme-por--rossattism-"> click aquí </a> para volver al inicio. </i>
+
+<hr>
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="https://shields.io/"><img src="https://img.shields.io/badge/Made with-♥-black" /></a>
