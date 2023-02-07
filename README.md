@@ -17,16 +17,16 @@ I teach you a basic way to edit your profile and make it look appealing to recru
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#first-steps-in-this-new-adventure"> First Steps </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#-markdown-or-html-that-is-the-question"> Markdown or HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#add-headings"> Add Headings </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#edit-text"> Edit Text </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#links-"> Links </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#insert-images"> Insert images </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#icons"> Icons </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#badges-"> Badges </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#42-community"> 42 Community </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial#profile-example"> Profile Example </a> </li>
+    <li> <a href="#first-steps-in-this-new-adventure"> First Steps </a> </li>
+    <li> <a href="#-markdown-or-html-that-is-the-question"> Markdown or HTML </a> </li>
+    <li> <a href="#add-headings"> Add Headings </a> </li>
+    <li> <a href="#edit-text"> Edit Text </a> </li>
+    <li> <a href="#links-"> Links </a> </li>
+    <li> <a href="#insert-images"> Insert images </a> </li>
+    <li> <a href="#icons"> Icons </a> </li>
+    <li> <a href="#badges-"> Badges </a> </li>
+    <li> <a href="#42-community"> 42 Community </a> </li>
+    <li> <a href="#profile-example"> Profile Example </a> </li>
   </ol>
 </p>
 
