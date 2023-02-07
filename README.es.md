@@ -18,16 +18,16 @@ Te enseño de manera básica como editar tu perfil y dejarlo bonito para los rec
 
 <p align="center">
   <ol>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#agregar-encabezados"> Agregar encabezados </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#editar-texto"> Editar texto </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#iconos"> Iconos </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#badges-"> Badges </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#comunidad-42"> Para la Comunidad 42 </a> </li>
-    <li> <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
+    <li> <a href="#primeros-pasos-en-esta-nueva-aventura"> Primeros pasos </a> </li>
+    <li> <a href="#-markdown-o-html-esa-es-la-cuesti%C3%B3n"> Markdown o HTML </a> </li>
+    <li> <a href="#agregar-encabezados"> Agregar encabezados </a> </li>
+    <li> <a href="#editar-texto"> Editar texto </a> </li>
+    <li> <a href="#a%C3%B1adir-los-enlaces-"> Añadir enlaces </a> </li>
+    <li> <a href="#insertar-im%C3%A1genes"> Insertar imágenes </a> </li>
+    <li> <a href="#iconos"> Iconos </a> </li>
+    <li> <a href="#badges-"> Badges </a> </li>
+    <li> <a href="#comunidad-42"> Para la Comunidad 42 </a> </li>
+    <li> <a href="#ejemplo-de-perfil"> Ejemplo de perfil </a> </li>
   </ol>
 </p>
 
@@ -136,7 +136,7 @@ Estos son enlaces a repositorios con Badges: <br>
 
 ## Comunidad 42
 
-Haciendo click <a href="https://github.com/stars/RossattiSM/lists/42-school"> aquí </a>, irás a una lista que hice con repositorios útiles para estudiantes. Algunos incluyen consejos y código, otros badges divertidas que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. <br>
+Haciendo click <a href="https://github.com/stars/RossattiSM/lists/4-2"> aquí </a>, irás a una lista que hice con repositorios útiles para estudiantes. Algunos incluyen consejos y código, otros badges divertidas que te permiten agregar al Readme una insignia de tu perfil como estudiante en 42. <br>
 
 ## Ejemplo de Perfil
 
