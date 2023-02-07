@@ -134,7 +134,7 @@ These are links to repositories with Badges: <br>
 
 ## 42 Community
 
-If you click <a href="https://github.com/stars/RossattiSM/lists/42-school"> here </a>, you will be taken to a list I have made of useful repositories for students. Some include tips and code, others include badges that shows your 42's student profile to the world. <br>
+If you click <a href="https://github.com/stars/RossattiSM/lists/4-2"> here </a>, you will be taken to a list I have made of useful repositories for students. Some include tips and code, others include badges that shows your 42's student profile to the world. <br>
 
 ## Profile Example
 
