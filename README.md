@@ -1,7 +1,7 @@
-Select your preferred language: <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/README.es.md"> ES </a>
+Select your preferred language: <a href="https://github.com/rossattism/profile-readme-tutorial/blob/main/README.md"> EN </a> or <a href="https://github.com/rossattism/profile-readme-tutorial/blob/main/README.es.md"> ES </a>
 <hr>
 
-# Readme Tutorial by <a href="https://github.com/RossattiSM"> RossattiSM </a>
+# Readme Tutorial by <a href="https://github.com/rossattism"> rossattism </a>
 
 > "Nature has given us the seeds of knowledge, not knowledge itself." ― Seneca
 
@@ -89,7 +89,7 @@ To <i>link </i> to other pages on and off Github, you can also use both language
 
 | Description | Markdown         | HTML                                                                             | Preview                       
 | ---         | ---              | ---                                                                              | ---                                     
-| Link        | ` 	[Link](https://github.com/RossattiSM/profile-readme-tutorial) `       |  ` <a href="https://github.com/RossattiSM/profile-readme-tutorial"> Link </a> `  | <a href="https://github.com/RossattiSM/profile-readme-tutorial"> Link </a>
+| Link        | ` 	[Link](https://github.com/rossattism/profile-readme-tutorial) `       |  ` <a href="https://github.com/rossattism/profile-readme-tutorial"> Link </a> `  | <a href="https://github.com/rossattism/profile-readme-tutorial"> Link </a>
  
 ## Insert images
 
@@ -134,7 +134,7 @@ These are links to repositories with Badges: <br>
 
 ## 42 Community
 
-If you click <a href="https://github.com/stars/RossattiSM/lists/4-2"> here </a>, you will be taken to a list I have made of useful repositories for students. Some include tips and code, others include badges that shows your 42's student profile to the world. <br>
+If you click <a href="https://github.com/stars/rossattism/lists/4-2"> here </a>, you will be taken to a list I have made of useful repositories for students. Some include tips and code, others include badges that shows your 42's student profile to the world. <br>
 
 ## Profile Example
 
@@ -157,7 +157,7 @@ Thanks for visiting my profile!
 
 This is how it would look: <br>
 
-<img src="https://github.com/RossattiSM/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="700px" height="230px" />
+<img src="https://github.com/rossattism/profile-readme-tutorial/blob/main/profile_example_en.png" alt="profile example picture" width="700px" height="230px" />
 
  <hr>
  
@@ -173,11 +173,11 @@ This is how it would look: <br>
 
 We have reached the <i> <b> end </b>! I hope the tutorial was helpful, if so I'd be happy with a ⭐ as a thank you. Greetings.
   
-<i> <a href="https://github.com/RossattiSM/profile-readme-tutorial#readme-tutorial-by--rossattism-"> Click here </a> to return at the beginning. </i>
+<i> <a href="https://github.com/rossattism/profile-readme-tutorial#readme-tutorial-by--rossattism-"> Click here </a> to return at the beginning. </i>
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
-<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="https://github.com/rossattism"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 20px; height: 20px" /></a> &nbsp;
-<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="mailto:rossattism@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://shields.io/"><img src="https://img.shields.io/badge/Made with-♥-black" /></a>
